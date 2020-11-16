@@ -10,7 +10,7 @@
     border:             solid 1px;
 }
 #img_02{/*logo del club deportivo y de la pagina*/
-    content:            url(../../assets/image/nysl_logo.png);
+    content:            url(../image/nysl_logo.png);
     width:              10%;
     height:             10%;
     border:             solid 2px;
