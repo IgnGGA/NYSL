@@ -4,7 +4,7 @@
     font-family:        "comic sans ms";
 }
 #img_01{/*Imagen de fondo y principal de la pagina*/
-    background-image:   url(../../assets/image/design2_image1.jpg);
+    background-image:   url(../image/design2_image1.jpg);
     background-size:    100% 100%;
     height:             850px;
     border:             solid 1px;
